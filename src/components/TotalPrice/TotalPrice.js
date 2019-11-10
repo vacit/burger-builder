@@ -1,12 +1,11 @@
-import React, { Component } from 'react';
+import React from 'react';
 
-function TotalPrice(){
-    return <div>
-
-        TotalPrice
-
-    </div>;
-
-
+function TotalPrice() {
+    return (
+        <div>
+            TotalPrice
+        </div>
+    );
 }
-export default TotalPrice 
+
+export default TotalPrice;
